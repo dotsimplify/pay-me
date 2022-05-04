@@ -1,6 +1,6 @@
 ![Light Mode of Application](/public/light.png)
 
-![dark Mode of Application](/dark.png)
+![dark Mode of Application](/public/dark.png)
 
 ## Paymemt screen with validated form submission with Next JS , Tailwind CSS & MongoDB.
 
