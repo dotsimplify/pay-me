@@ -1,0 +1,13 @@
+.linearBg {
+  float: left;
+  /* Old browsers */
+  background: linear-gradient(to right, #0f0fac 50%, #0f73d1 50%);
+
+  background-size: 200% 100%;
+  background-position: left top;
+  transition: all 2s ease;
+  color: white;
+}
+.linearBg:hover {
+  background-position: right bottom;
+}
